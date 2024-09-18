@@ -1,0 +1,18 @@
+#logo{
+    color: #fff;
+    font-size: 50px;
+    font-weight: 400;
+    
+
+}
+ #logo #logo1{
+    color: red;
+    transform: rotate(45deg); /* Rotate the element by 45 degrees */
+}
+#carousel1{
+    width: 50%;
+    height: 70vh;
+}
+#box1{
+    background-color: aqua;
+}
